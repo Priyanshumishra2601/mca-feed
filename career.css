@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(0, 0, 0);
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  button {
+    width: 122px;
+    height: 47px;
+    text-align: center;
+    border-radius: 20px;
+    background: palevioletred;
+    justify-content: center;
+    margin: 8px;
+  }
+
+  button:hover {
+    cursor: pointer;
+    background: palegreen;
+
+  }
+  .i1{
+    text-align: center;
+  }
+
+  h1 {
+    color: rgb(255 8 8);
+    text-align: center;
+    font-size: 3rem;
+  }
+
+  h1 span {
+    background: linear-gradient(5deg, #ff0a0a, transparent);
+    color: #01020a;
+  }
+
+  h2 {
+    text-align: center;
+    color: #fffdfd;
+    font-size: 1.5rem;
+  }
+
+  h2 span {
+    background: linear-gradient(5deg, #131212, transparent);
+    color: #e77676d9;
+  }
+
+
+
+  a {
+    text-decoration: none;
+    margin: 6px;
+  }
+
+  div .me {
+    font-size: 2rem;
+
+  }
+
+  div .me a {
+    padding: 0.4rem;
+
+    color: #f3ffec;
+  }
+
+  div .me a i {
+    padding: 0.4rem;
+
+    color: #f3ffec;
+  }
+
+  .me a i:hover {
+    color: #e2f10e;
+    transition: all 0.5s ease-out;
+  }
+
+  @media screen and (max-width: 500px) {}
