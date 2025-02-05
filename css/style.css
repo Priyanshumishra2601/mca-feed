@@ -291,7 +291,7 @@ padding-top: 20px;
 .button{
   cursor: pointer;
   padding-top: 20px;
-  margin: 40px;
+  margin: 4px;
 }
 button{
   cursor: pointer;
@@ -304,7 +304,7 @@ button{
   padding: 10px;
   background: none;
   color: antiquewhite;
-  margin: 0px 10px;
+  margin: 8px 10px;
   position: relative;
   width: 180px;
   overflow: hidden;
