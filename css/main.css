@@ -1879,6 +1879,7 @@
   
   .banner-area {
     background: url(../img/space-g12713e60c_1920.jpg) no-repeat top center;
+      width: 110%;
     background-size: cover;
     min-height: 512px; }
   
