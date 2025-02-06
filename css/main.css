@@ -48,7 +48,9 @@
     font-size: 16px;
     font-weight: 400;
     line-height: 1.625em;
-        position: fixed; }
+        position: relative;
+    overflow-x: hidden;
+    display: contents; }
   
   ol, ul {
     margin: 0;
